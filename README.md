@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Angie-O/Angie-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am Angie ✨
 
-Here are some ideas to get you started:
+😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Data Cleaning, Exploratory Data Analysis, Machine Learning and Neural Networks
+
+🌱 Always seeking new opportunities
+
+👯 I’m open to collaborate
+
+🤔 Tell me about Web3
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/angieogada/)
+
+⚡ Feel free to ask or comment on my public projects

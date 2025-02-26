@@ -1,6 +1,5 @@
  # 💫 About User:
  Passionate Data Scientist<br></br>
- Speaks English, Swahili and German.<br></br>
  Open to collaborate.
  
 <hr />
